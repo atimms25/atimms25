@@ -1,7 +1,7 @@
 # Hi there, I'm Andrew 👋
 
 I am a student at Baldwin Wallace University.
-
+For My Resume Click Here:[https://rawcdn.githack.com/atimms25/atimms25/cf9639181d250bc5fe8258169de6954a602819a2/Resume.pdf.pdf]
 ---
 
 ### 🎓 About Me
