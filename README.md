@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Andrew 👋
 
-<!--
-**atimms25/atimms25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at Baldwin Wallace University.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Accoutning and Finance double major degree at Baldwin Wallace (Expected Graduation:2029)
+* 🔭 **Current Focus:** Learning different variation of accounting and networking
+* 🌱 **Currently Building**: Statistics and accounting group projects for growth
+* 💡 **Interests:** Investment and the use of artificial intelligence
+* ⚡ **Fun Fact:** I am very passionate for the outdoors as my hobbies mostly all include it
+
+---
+
+### 📌 Featured Projects
+| **Project** | **Description** | 
+
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using Claude | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/andrew-timms-8a56b43a4/
+* **Email:** atimms25@bw.edu
+
+
